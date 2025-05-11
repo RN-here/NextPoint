@@ -2,6 +2,6 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #8e6e53, #6a4c93);
-  color: #ffffff; /* White text color */
+  background-color: #6B5A4A; /* Neutral brownish background */
+  color: #ffffff; /* White text for clear contrast */
 }
