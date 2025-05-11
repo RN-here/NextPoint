@@ -1,12 +1,6 @@
 body {
-  margin: 0;
-  padding: 0;
+  margin: 8px; /* Browser ka default margin */
   font-family: Arial, sans-serif;
   background-color: #6B5A4A;
   color: #ffffff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh; /* Full screen height */
-  text-align: center;
 }
